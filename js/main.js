@@ -51,6 +51,8 @@ function crearForm()
   }
 
 function analizar(){
+   aprobados=0;
+   reprobados=0;
    document.getElementById("nombre_materia").innerHTML = materia;
      var tabla=document.getElementById("registros_def");
      var columnas = document.getElementById("columnas_def");
