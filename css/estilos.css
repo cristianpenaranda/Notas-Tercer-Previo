@@ -1,0 +1,65 @@
+h1,h4{
+	text-align: center;
+}
+
+header{
+	background: #d4d4d4;
+}
+
+nav img{
+	width: 3em;
+}
+
+nav{
+	background: #aa1916;
+}
+
+.navbar-brand{
+	color: white;
+	font-size: 25px;
+}
+
+.navbar-brand:hover{
+	color: white;
+}
+
+.nav-link{
+	color: white;
+}
+
+.nav-link:hover{
+	color: black;
+}
+
+#imagen_central{
+	width: 60%;
+	display: block;
+	margin: auto;
+}
+
+footer{
+	background: #aa1916;
+	padding: 1%;
+	margin-top: 2%;
+	margin-bottom: 0;
+}
+
+footer p{
+	color: white;
+	text-align: center;
+}
+
+.tabla{
+	width: 100%;
+	overflow:scroll;
+}
+
+footer p a{
+	margin: 1%;
+	font-size: 30px;
+	color: white;
+}
+
+footer p a:hover{
+	color: black;
+}
